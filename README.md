@@ -16,5 +16,7 @@ Of course you can. You can help to translate the projects by using Pull Request.
 
 ## Where are the people from?
 
-Most of us are from China. So you can see that some commit comments is Chinese. But we will change that (XD) very soon.
+Most of us are from China. So you can see that some commit comments is Chinese. ~~But we will change that very soon.~~
+
+Come and see our [Public Projects](github.com/Magicial-Studio)
 
