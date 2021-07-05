@@ -18,5 +18,5 @@ Of course you can. You can help to translate the projects by using Pull Request.
 
 Most of us are from China. So you can see that some commit comments is Chinese. ~~But we will change that very soon.~~
 
-Come and see our [Public Projects](github.com/Magicial-Studio)
+Come and see our [Public Projects](https://github.com/Magicial-Studio)
 
